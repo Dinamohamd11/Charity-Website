@@ -1,0 +1,104 @@
+@media screen and (max-width: 1024px) {
+    .programs .tols .btn {
+        padding: 1px 69px;
+    }
+    .programs {
+        padding: 25px;
+    }
+    .programs .tols span {
+        padding: 0 21px;
+    }
+    .programs .container {
+        width: 100%;
+    }
+    .programs .tols button {
+        padding: 10px 19px;
+    }
+    .programs .tols {
+        padding: 0 30px;
+    }
+    .programs .container {
+        padding: 0;
+    }
+}
+@media screen and (max-width: 992px) {
+    .programs .tols .btn {
+        padding: 1px 69px;
+    }
+    .programs {
+        padding: 14px;
+    }
+    .programs .tols span {
+        padding: 0 21px;
+    }
+    .programs .container {
+        width: 100%;
+        padding-bottom: 80px;
+    }
+    .programs .col h2 {
+        font-size: 16px;
+    }
+    .programs .col p {
+        font-size: 16px;
+    }
+    .programs .tols button {
+        padding: 10px 19px;
+    }
+    .programs .tols {
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .programs .container {
+        width: 100%;
+    }
+
+    .programs .col {
+        width: 48%;
+        padding: 10px;
+    }
+    .programs .tols .btn {
+        padding: 20px 0;
+    }
+    .programs .tols button {
+        font-size: 15px;
+        padding: 11px 17px;
+    }
+    .programs .tols span {
+        padding: 11px 19px;
+    }
+    .programs .tols {
+        padding: 0 10px;
+    }
+    .map iframe {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .programs .container {
+        width: 100%;
+        /* padding: 0; */
+    }
+
+    .programs .col {
+        width: 48%;
+    }
+    .programs .tols .btn {
+        padding: 20px 0;
+    }
+    .programs .tols button {
+        font-size: 15px;
+        padding: 11px 17px;
+    }
+    .programs .tols span {
+        padding: 0;
+    }
+    .programs .row {
+        justify-content: center;
+    }
+    .map iframe {
+        width: 100%;
+    }
+}
